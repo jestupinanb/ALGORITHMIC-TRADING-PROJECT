@@ -1,0 +1,2 @@
+# ALGORITHMIC-TRADING-PROJECT
+Algoritmos 
