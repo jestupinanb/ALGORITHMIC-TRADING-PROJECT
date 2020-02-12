@@ -1,2 +1,3 @@
 # ALGORITHMIC-TRADING-PROJECT
-Algoritmos 
+Algoritmo
+Jaime Estupinan
